@@ -31,16 +31,10 @@
 
 ---
 
-### Current Streaks & Achievements  
-
-| 🔥 **Metric**           | **Value**   |  
-|--------------------------|-------------|  
-| **Current Streak**       | 12 days     |  
-| **Longest Streak**       | 65 days     |  
-| **Total Contributions**  | 2,500+      |  
+### Current Streaks & Achievements 
 
 ### 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Wasim-Rana)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Wasim-Rana)](https://git.io/streak-stats) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Wasim-Rana&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 [![Wasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wasim-Rana)](https://github.com/Wasim-Rana/github-readme-stats)
