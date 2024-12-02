@@ -26,7 +26,7 @@
 ---
 ###
 
-![Snake Game](https://github.com/Wasim-Rana/Wasim-Rana/blob/output/github-contribution-grid-snake.svg)
+![Snake Game](https://github.com/Wasim-Rana/Wasim-Rana/blob/main/dist/snake.svg)
 
 ---
 ## 📊 GitHub Stats 
@@ -41,7 +41,7 @@
 ### Current Streaks & Achievements 
 
 ### 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Wasim-Rana&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Wasim-Rana&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
 ---
 
