@@ -34,12 +34,7 @@
 ### Current Streaks & Achievements 
 
 ### 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Wasim-Rana)](https://git.io/streak-stats) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Wasim-Rana&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-[![Wasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wasim-Rana)](https://github.com/Wasim-Rana/github-readme-stats)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Wasim-Rana&theme=radical)
 
 ---
 
