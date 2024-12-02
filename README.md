@@ -34,7 +34,7 @@
 ### Current Streaks & Achievements 
 
 ### 
-[![Wasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wasim-Rana)](https://github.com/Wasim-Rana/github-readme-stats)
+[![Wasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wasim-Rana&show_icons=true&theme=dracula)](https://github.com/Wasim-Rana/github-readme-stats)
 
 
 ---
