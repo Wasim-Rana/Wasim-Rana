@@ -47,7 +47,6 @@
 
 ---
 ### 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Wasim-Rana)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Wasim-Rana)](https://git.io/streak-stats)
 > "Security is not a product, but a process."  
 > Let's make the web safer, one project at a time! 🚀  
