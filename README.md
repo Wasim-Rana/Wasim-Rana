@@ -32,9 +32,8 @@
 ---
 
 ### Current Streaks & Achievements 
-
 ### 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Wasim-Rana&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Wasim-Rana&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=FF4500)](https://git.io/streak-stats)
 
 ---
 
