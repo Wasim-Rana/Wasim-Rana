@@ -41,7 +41,7 @@
 ### Current Streaks & Achievements 
 
 ### 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Wasim-Rana)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Wasim-Rana&theme=dracula)](https://git.io/streak-stats)
 
 ---
 

@@ -14,16 +14,15 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Snake Game
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3
         with:
-          
           github_user_name: Wasim-Rana
+          outputs: dist/snake.svg
 
-          
-          output: dist/github-contribution-grid-snake.svg
-
-      - name: Upload Snake Game
-        uses: actions/upload-artifact@v3
-        with:
-          name: snake-game
-          path: dist/github-contribution-grid-snake.svg
+      - name: Commit and Push Snake Game
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add dist/snake.svg
+          git commit -m "Generate snake.svg for GitHub profile"
+          git push
