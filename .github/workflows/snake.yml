@@ -2,8 +2,8 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
-  workflow_dispatch: # Allows manual trigger of the workflow
+    - cron: "0 0 * * *" 
+  workflow_dispatch: 
 
 jobs:
   build:
@@ -16,11 +16,10 @@ jobs:
       - name: Generate Snake Game
         uses: Platane/snk@v2
         with:
-          # GitHub user name to use
-          # Use the same username as your GitHub account
+          
           github_user_name: Wasim-Rana
 
-          # Output file
+          
           output: dist/github-contribution-grid-snake.svg
 
       - name: Upload Snake Game
