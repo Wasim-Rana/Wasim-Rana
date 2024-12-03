@@ -26,7 +26,7 @@
 ---
 ###
 
-![Snake Game](https://github.com/Wasim-Rana/Wasim-Rana/blob/main/dist/snake.svg)
+![Snake Game](https://github.com/Wasim-Rana/Wasim-Rana/blob/main/dist/snake.svg?v=1)
 
 ---
 ## 📊 GitHub Stats 
