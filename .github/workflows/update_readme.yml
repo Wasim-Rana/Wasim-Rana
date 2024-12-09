@@ -1,1 +1,26 @@
+name: Update Profile README
 
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch README Content
+        run: |
+          curl -o README.md https://wasim-rana-euxe.vercel.app/README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add README.md
+          git commit -m "Update README from deployment" || echo "No changes to commit"
+          git push
