@@ -1,8 +1,6 @@
 
 # Hi, I'm Wasim Rana! 👋  
 
-<iframe src="https://wasim-rana-euxe.vercel.app" width="100%" height="600" style="border:none;"></iframe>
-
 🌐 **Web Developer | Cybersecurity Enthusiast | Penetration Tester in the Making**  
 
 ---
