@@ -51,7 +51,7 @@
 
 ---
 
-##  GitHub Contribution Graph
+##   🚀  GitHub Contribution Graph
 
 <p align="center">
   <a>
@@ -66,6 +66,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-> "Security is not a product, but a process."  
-> Let's make the web safer, one project at a time! 🚀  
