@@ -31,17 +31,19 @@
 ---
 ## 📊 GitHub Stats 
 
-![](https://github-readme-stats.vercel.app/api?username=Wasim-Rana&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wasim-Rana&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://github.com/Wasim-Rana?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Wasim-Rana&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="@wasim's github-readme-stats-one-bice"/>
+  </a>
+  <a href="https://github.com/Wasim-Rana?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Wasim-Rana&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@aaronmcleancs's github-readme-streak-stats"/>
+  </a>
+</p>
 
  
 ---
 
-### Current Streaks & Achievements 
 
-### 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Wasim-Rana&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=dark)](https://git.io/streak-stats)
----
 
 ## 🌟 Connect with Me  
 
@@ -49,13 +51,19 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Wasim-Rana&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+##  GitHub Contribution Graph
+
+<p align="center">
+  <a>
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Wasim-Rana&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
+      width="95%" alt="activity graph">
+  </a>
+</p>
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Wasim-Rana&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
