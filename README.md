@@ -1,5 +1,6 @@
 
-# Hi, I'm Wasim Rana! 👋  
+# Hi, I'm <img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Daniel's GitHub Avatar" width="60px"/> Wasim Rana!   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
+
 
 🌐 **Web Developer | Cybersecurity Enthusiast | Penetration Tester in the Making**  
 
@@ -26,7 +27,13 @@
 ---
 ###
 
-![Snake Game](https://github.com/Wasim-Rana/Wasim-Rana/blob/main/dist/snake.svg?v=1)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+<!--     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"> -->
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 ## 📊 GitHub Stats 
@@ -45,13 +52,13 @@
 
 
 
-## 🌟 Connect with Me  
+## 🌐 Connect with Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rana-wasim-a2aa53292/)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-wasim-a2aa53292/) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
+
 
 ---
 
-##   🚀  GitHub Contribution Graph
 
 <p align="center">
   <a>
