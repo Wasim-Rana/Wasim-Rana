@@ -9,7 +9,7 @@
 ## 💫 About Me:
 🚀 Passionate about building secure and innovative digital experiences.  
 📚 I have a strong foundation in software development and an evolving interest in **cybersecurity**, especially in penetration testing.  
-💻 Currently diving deeper into cybersecurity while working on **web development projects**.  
+💻 Currently diving deeper into cybersecurity.  
 
 ---
 
